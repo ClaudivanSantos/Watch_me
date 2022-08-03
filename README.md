@@ -16,7 +16,7 @@
 
 ## 💻 Projeto
 
-O Whatch.me é um projeto realizado no[ignite](https://app.rocketseat.com.br/ignite) da [rocketseat](https://app.rocketseat.com.br)
+O Whatch.me é um projeto realizado no [ignite](https://app.rocketseat.com.br/ignite) da [rocketseat](https://app.rocketseat.com.br)
 
 ## 🤝 Como executar
 
