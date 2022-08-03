@@ -1,6 +1,12 @@
 <h1 align="center">
-# 🚀 Watch.me
+🚀 Watch.me
 </h1>
+
+## 📫 Visualização do projeto
+
+<img size='100%' src="https://i.ibb.co/R0BH19G/Captura-de-tela-2022-03-16-094631.png"  alt="Captura-de-tela-2022-03-16-083320" border="0">
+
+## ✨ Tecnologias
 
 <p>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -8,11 +14,9 @@
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </p>
 
-## 📫 Visualização do projeto
+## 💻 Projeto
 
-<img size='100%' src="https://i.ibb.co/R0BH19G/Captura-de-tela-2022-03-16-094631.png"  alt="Captura-de-tela-2022-03-16-083320" border="0">
-
-Para clonar o repositório usando HTTPS, em "Clonar com HTTPS", clique em copiar.
+O Whatch.me é um projeto realizado no[ignite](https://app.rocketseat.com.br/ignite) da [rocketseat](https://app.rocketseat.com.br)
 
 ## 🤝 Clonar o projeto
 
