@@ -2,10 +2,6 @@
 🚀 Watch.me
 </h1>
 
-## 📫 Visualização do projeto
-
-<img width="100%" src="https://i.ibb.co/R0BH19G/Captura-de-tela-2022-03-16-094631.png"  alt="Captura-de-tela-2022-03-16-083320">
-
 ## ✨ Tecnologias
 
 <p>
@@ -13,6 +9,10 @@
   <img alt="react" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </p>
+
+## 📫 Visualização do projeto
+
+<img width="100%" src="https://i.ibb.co/R0BH19G/Captura-de-tela-2022-03-16-094631.png"  alt="Captura-de-tela-2022-03-16-083320">
 
 ## 💻 Projeto
 
