@@ -4,7 +4,7 @@
 
 ## 📫 Visualização do projeto
 
-<img size='100%' src="https://i.ibb.co/R0BH19G/Captura-de-tela-2022-03-16-094631.png"  alt="Captura-de-tela-2022-03-16-083320" border="0">
+<img width="100%" src="https://i.ibb.co/R0BH19G/Captura-de-tela-2022-03-16-094631.png"  alt="Captura-de-tela-2022-03-16-083320">
 
 ## ✨ Tecnologias
 
