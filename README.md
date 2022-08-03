@@ -18,32 +18,14 @@
 
 O Whatch.me é um projeto realizado no[ignite](https://app.rocketseat.com.br/ignite) da [rocketseat](https://app.rocketseat.com.br)
 
-## 🤝 Clonar o projeto
+## 🤝 Como executar
 
-No GitHub.com, navegue até a página principal do repositório.
-Acima da lista de arquivos, clique em baixar o código como na imagem abaixo código. <br />
-<img width="30%%" src="https://docs.github.com/assets/cb-20363/images/help/repository/code-button.png" /> 
+- Clone o repositório
+- Instale as dependências com `yarn`
+- Inicie a fake api com `yarn server`
+- Inicie o servidor com `yarn dev`
 
-Para clonar o repositório usando HTTPS, em "Clonar com HTTPS", clique em "copiar". <br />
-<img width="30%%" src="https://docs.github.com/assets/cb-36330/images/help/repository/https-url-clone.png" /> 
-
-Abra Git Bash.
-
-Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado
-
-Digite ```git clone``` (clonar git) e cole a URL que você copiou anteriormente.
-
-```git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY```
-
-Pressione Enter para criar seu clone local.
- ```
- git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
- Cloning into `Spoon-Knife`...
- remote: Contando objetos: 10, concluído.
- remote: Compactando objetos: 100% (8/8), concluído.
- remove: Total 10 (delta 1), reused 10 (delta 1)
- Unpacking objects: 100% (10/10), done.
- ```
+Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
 ## 📫 Contribuindo para o Portfólio
 
