@@ -38,3 +38,11 @@ Para contribuir com o Portfólio, siga estas etapas:
 5. Crie a solicitação de pull.
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+## Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+
+---
+
+Feito com :purple_heart: by [Claudivan Santos](https://github.com/ClaudivanSantos)
