@@ -12,7 +12,7 @@
 
 ## 📫 Visualização do projeto
 
-<img width="100%" src="https://i.ibb.co/R0BH19G/Captura-de-tela-2022-03-16-094631.png"  alt="Captura-de-tela-2022-03-16-083320">
+<img width="100%" src="https://github.com/martins-rafael/watchme/raw/main/.github/watchme.png"  alt="Captura-de-tela-2022-03-16-083320">
 
 ## 💻 Projeto
 
