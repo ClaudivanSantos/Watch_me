@@ -45,4 +45,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-Feito com :purple_heart: by [Claudivan Santos](https://github.com/ClaudivanSantos)
+Feito com :purple_heart: by [Claudivan Santos](https://github.com/ClaudivanSantos) 
